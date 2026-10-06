@@ -1,4 +1,4 @@
-# my stuff for Asset Store
+# my stuff
 Licence: MIT
 
 Software: 
